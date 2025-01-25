@@ -1,4 +1,4 @@
-The LetMeAsk Project is a project with the frontend developed in React Typescript and the backend with firebase.
+The LetMeAsk Project is a project develop to improve my knowledge in react with the frontend developed in React Typescript and the backend with firebase.
 
 - On the homepage where it is possible to login via google or enter the room using the code
 
